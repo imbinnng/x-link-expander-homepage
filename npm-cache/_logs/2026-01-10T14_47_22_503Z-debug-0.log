@@ -1,0 +1,142 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@10.9.3
+2 info using node@v22.20.0
+3 silly config load:file:/usr/local/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/shibingzhang/git/imbinnng/x-link-expander-homepage/.npmrc
+5 silly config load:file:/Users/shibingzhang/.npmrc
+6 silly config load:file:/Users/shibingzhang/.npm-global/etc/npmrc
+7 verbose title npm install
+8 verbose argv "install"
+9 verbose logfile logs-max:10 dir:/Users/shibingzhang/git/imbinnng/x-link-expander-homepage/npm-cache/_logs/2026-01-10T14_47_22_503Z-
+10 verbose logfile /Users/shibingzhang/git/imbinnng/x-link-expander-homepage/npm-cache/_logs/2026-01-10T14_47_22_503Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+13 silly idealTree buildDeps
+14 silly fetch manifest @sveltejs/adapter-auto@^3.0.0
+15 silly packumentCache full:https://registry.npmmirror.com/@sveltejs%2fadapter-auto cache-miss
+16 http fetch GET 200 https://registry.npmmirror.com/@sveltejs%2fadapter-auto 289ms (cache miss)
+17 silly packumentCache full:https://registry.npmmirror.com/@sveltejs%2fadapter-auto set size:101151 disposed:false
+18 silly fetch manifest @sveltejs/kit@^2.0.0
+19 silly packumentCache full:https://registry.npmmirror.com/@sveltejs%2fkit cache-miss
+20 http fetch GET 200 https://registry.npmmirror.com/@sveltejs%2fkit 603ms (cache miss)
+21 silly packumentCache full:https://registry.npmmirror.com/@sveltejs%2fkit set size:752592 disposed:false
+22 silly fetch manifest @opentelemetry/api@^1.0.0
+23 silly packumentCache full:https://registry.npmmirror.com/@opentelemetry%2fapi cache-miss
+24 http fetch GET 200 https://registry.npmmirror.com/@opentelemetry%2fapi 34ms (cache miss)
+25 silly packumentCache full:https://registry.npmmirror.com/@opentelemetry%2fapi set size:33848 disposed:false
+26 silly fetch manifest @sveltejs/vite-plugin-svelte@^4.0.0
+27 silly packumentCache full:https://registry.npmmirror.com/@sveltejs%2fvite-plugin-svelte cache-miss
+28 http fetch GET 200 https://registry.npmmirror.com/@sveltejs%2fvite-plugin-svelte 111ms (cache miss)
+29 silly packumentCache full:https://registry.npmmirror.com/@sveltejs%2fvite-plugin-svelte set size:81379 disposed:false
+30 silly fetch manifest svelte@^5.0.0
+31 silly packumentCache full:https://registry.npmmirror.com/svelte cache-miss
+32 http fetch GET 200 https://registry.npmmirror.com/svelte 290ms (cache miss)
+33 silly packumentCache full:https://registry.npmmirror.com/svelte set size:474041 disposed:false
+34 silly fetch manifest vite@^6.0.0
+35 silly packumentCache full:https://registry.npmmirror.com/vite cache-miss
+36 http fetch GET 200 https://registry.npmmirror.com/vite 2137ms (cache miss)
+37 silly packumentCache full:https://registry.npmmirror.com/vite set size:6217021 disposed:false
+38 silly fetch manifest vite@^5.0.0
+39 silly packumentCache full:https://registry.npmmirror.com/vite cache-miss
+40 http cache https://registry.npmmirror.com/vite 37ms (cache hit)
+41 silly packumentCache full:https://registry.npmmirror.com/vite set size:38504945 disposed:false
+42 silly fetch manifest @types/node@^18.0.0 || ^20.0.0 || >=22.0.0
+43 silly packumentCache full:https://registry.npmmirror.com/@types%2fnode cache-miss
+44 http fetch GET 200 https://registry.npmmirror.com/@types%2fnode 493ms (cache miss)
+45 silly packumentCache full:https://registry.npmmirror.com/@types%2fnode set size:1123589 disposed:false
+46 silly fetch manifest jiti@>=1.21.0
+47 silly packumentCache full:https://registry.npmmirror.com/jiti cache-miss
+48 http fetch GET 200 https://registry.npmmirror.com/jiti 79ms (cache miss)
+49 silly packumentCache full:https://registry.npmmirror.com/jiti set size:60368 disposed:false
+50 silly fetch manifest less@*
+51 silly packumentCache full:https://registry.npmmirror.com/less cache-miss
+52 http fetch GET 200 https://registry.npmmirror.com/less 72ms (cache miss)
+53 silly packumentCache full:https://registry.npmmirror.com/less set size:47577 disposed:false
+54 silly fetch manifest lightningcss@^1.21.0
+55 silly packumentCache full:https://registry.npmmirror.com/lightningcss cache-miss
+56 http fetch GET 200 https://registry.npmmirror.com/lightningcss 74ms (cache miss)
+57 silly packumentCache full:https://registry.npmmirror.com/lightningcss set size:30737 disposed:false
+58 silly fetch manifest sass@*
+59 silly packumentCache full:https://registry.npmmirror.com/sass cache-miss
+60 http fetch GET 200 https://registry.npmmirror.com/sass 67ms (cache miss)
+61 silly packumentCache full:https://registry.npmmirror.com/sass set size:124596 disposed:false
+62 silly fetch manifest sass-embedded@*
+63 silly packumentCache full:https://registry.npmmirror.com/sass-embedded cache-miss
+64 http fetch GET 200 https://registry.npmmirror.com/sass-embedded 70ms (cache miss)
+65 silly packumentCache full:https://registry.npmmirror.com/sass-embedded set size:73271 disposed:false
+66 silly fetch manifest stylus@*
+67 silly packumentCache full:https://registry.npmmirror.com/stylus cache-miss
+68 http fetch GET 200 https://registry.npmmirror.com/stylus 73ms (cache miss)
+69 silly packumentCache full:https://registry.npmmirror.com/stylus set size:65242 disposed:false
+70 silly fetch manifest sugarss@*
+71 silly packumentCache full:https://registry.npmmirror.com/sugarss cache-miss
+72 http fetch GET 200 https://registry.npmmirror.com/sugarss 54ms (cache miss)
+73 silly packumentCache full:https://registry.npmmirror.com/sugarss set size:8151 disposed:false
+74 silly fetch manifest postcss@^8.3.3
+75 silly packumentCache full:https://registry.npmmirror.com/postcss cache-miss
+76 http fetch GET 200 https://registry.npmmirror.com/postcss 50ms (cache miss)
+77 silly packumentCache full:https://registry.npmmirror.com/postcss set size:94454 disposed:false
+78 silly fetch manifest terser@^5.16.0
+79 silly packumentCache full:https://registry.npmmirror.com/terser cache-miss
+80 http fetch GET 200 https://registry.npmmirror.com/terser 115ms (cache miss)
+81 silly packumentCache full:https://registry.npmmirror.com/terser set size:108921 disposed:false
+82 silly fetch manifest tsx@^4.8.1
+83 silly packumentCache full:https://registry.npmmirror.com/tsx cache-miss
+84 http fetch GET 200 https://registry.npmmirror.com/tsx 97ms (cache miss)
+85 silly packumentCache full:https://registry.npmmirror.com/tsx set size:67335 disposed:false
+86 silly fetch manifest yaml@^2.4.2
+87 silly packumentCache full:https://registry.npmmirror.com/yaml cache-miss
+88 http fetch GET 200 https://registry.npmmirror.com/yaml 105ms (cache miss)
+89 silly packumentCache full:https://registry.npmmirror.com/yaml set size:53125 disposed:false
+90 verbose stack Error: unable to resolve dependency tree
+90 verbose stack     at #failPeerConflict (/usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:1363:25)
+90 verbose stack     at #loadPeerSet (/usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:1329:33)
+90 verbose stack     at async #loadPeerSet (/usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:1308:23)
+90 verbose stack     at async #loadPeerSet (/usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:1308:23)
+90 verbose stack     at async #buildDepStep (/usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:904:11)
+90 verbose stack     at async Arborist.buildIdealTree (/usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:181:7)
+90 verbose stack     at async Promise.all (index 1)
+90 verbose stack     at async Arborist.reify (/usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/reify.js:131:5)
+90 verbose stack     at async Install.exec (/usr/local/lib/node_modules/npm/lib/commands/install.js:150:5)
+90 verbose stack     at async Npm.exec (/usr/local/lib/node_modules/npm/lib/npm.js:207:9)
+91 error code ERESOLVE
+92 error ERESOLVE unable to resolve dependency tree
+93 error
+94 error While resolving: x-link-expander-homepage@0.0.1
+94 error Found: vite@6.4.1
+94 error node_modules/vite
+94 error   dev vite@"^6.0.0" from the root project
+94 error   peer vite@"^5.0.3 || ^6.0.0 || ^7.0.0-beta.0" from @sveltejs/kit@2.49.4
+94 error   node_modules/@sveltejs/kit
+94 error     dev @sveltejs/kit@"^2.0.0" from the root project
+94 error     peer @sveltejs/kit@"^2.0.0" from @sveltejs/adapter-auto@3.3.1
+94 error     node_modules/@sveltejs/adapter-auto
+94 error       dev @sveltejs/adapter-auto@"^3.0.0" from the root project
+94 error
+94 error Could not resolve dependency:
+94 error peer vite@"^5.0.0" from @sveltejs/vite-plugin-svelte@4.0.4
+94 error node_modules/@sveltejs/vite-plugin-svelte
+94 error   dev @sveltejs/vite-plugin-svelte@"^4.0.0" from the root project
+94 error   peer @sveltejs/vite-plugin-svelte@"^3.0.0 || ^4.0.0-next.1 || ^5.0.0 || ^6.0.0-next.0" from @sveltejs/kit@2.49.4
+94 error   node_modules/@sveltejs/kit
+94 error     dev @sveltejs/kit@"^2.0.0" from the root project
+94 error     1 more (@sveltejs/adapter-auto)
+94 error
+94 error Fix the upstream dependency conflict, or retry
+94 error this command with --force or --legacy-peer-deps
+94 error to accept an incorrect (and potentially broken) dependency resolution.
+95 error
+95 error
+95 error For a full report see:
+95 error /Users/shibingzhang/git/imbinnng/x-link-expander-homepage/npm-cache/_logs/2026-01-10T14_47_22_503Z-eresolve-report.txt
+96 silly unfinished npm timer reify 1768056442766
+97 silly unfinished npm timer reify:loadTrees 1768056442768
+98 silly unfinished npm timer idealTree:buildDeps 1768056442772
+99 silly unfinished npm timer idealTree:#root 1768056442772
+100 verbose cwd /Users/shibingzhang/git/imbinnng/x-link-expander-homepage
+101 verbose os Darwin 24.6.0
+102 verbose node v22.20.0
+103 verbose npm  v10.9.3
+104 verbose exit 1
+105 verbose code 1
+106 error A complete log of this run can be found in: /Users/shibingzhang/git/imbinnng/x-link-expander-homepage/npm-cache/_logs/2026-01-10T14_47_22_503Z-debug-0.log
